@@ -1,6 +1,4 @@
-# **souHTTP**
-
-> A minimal HTTP server built from scratch in Node.js — a playground for networking, TCP, and HTTP internals.
+> A minimal HTTP server built from scratch in Node.js — a playground for networking, TCP, and HTTP internals, Whilst following Codecrafters' "Build your own HTTP server" Challenge.
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
