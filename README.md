@@ -52,7 +52,7 @@ souHTTP builds on these concepts by handling TCP connections directly and parsin
 
 ## **Tech Stack**
 
-- **Node.js** (used for this challenge, with support for JavaScript solutions) :contentReference[oaicite:2]{index=2}  
+- **Node.js**
 - **TCP Networking (`net` module)**  
 - **JavaScript (CommonJS module system)**  
 
